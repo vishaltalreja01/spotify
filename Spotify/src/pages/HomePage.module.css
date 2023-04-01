@@ -1,0 +1,492 @@
+.center-text{
+  text-align: center;
+  }
+.listChild,
+.mainBodyChild {
+  position: relative;
+}
+.mainBodyChild {
+  background-color: var(--color-gray-100);
+  height: 100%;
+  width: 100%;
+}
+.listChild {
+  border-radius: 50px;
+  background-color: var(--color-gainsboro);
+  height: 65%;
+  width: 72%;
+  width: 72%;
+  margin: 0 auto;
+  max-width: 1040px;
+  max-height: 600px;
+}
+.buttonChild {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray-100);
+  width: 23%;
+  height: 10%;
+  max-width: 153px;
+  max-height: 38px;
+  margin-top: 1%;
+}
+.button,
+.viewDetail {
+  position: relative;
+  width: 100%;
+  font-size: var(--font-size-3xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  height: 23px;
+  mix-blend-mode: normal;
+}
+.viewDetail {
+  top: 6px;
+  font-size: var(--font-size-xl);
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 100%;
+  max-height: 38px;
+}
+.jerseyClub {
+  font-weight: 500;
+  display: inline-block;
+  width: 60%;
+  max-width: 357px;
+  font-size: var(--font-size-2xl);
+}
+.button1,
+.jerseyClub,
+.listItem9 {
+  position: relative;
+  width: 100%;
+  margin-top: 1%;
+}
+
+
+.listItem9 {
+  top: 516px;
+  left: 89px;
+  width: 895px;
+  height: 42px;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 742px;
+  width: 155px;
+  height: 38px;
+}
+.synthwave {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+}
+.listItem8Child {
+  top: 47.94px;
+  left: 8.67px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.button2,
+.listItem8,
+.listItem8Child {
+  position: absolute;
+}
+.listItem8 {
+  top: 458px;
+  left: 89px;
+  width: 897px;
+  height: 48.44px;
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 734px;
+  width: 155px;
+  height: 38px;
+}
+.trapHiphop {
+  position: absolute;
+  top: 7px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+}
+.listItem7Child {
+  top: 56.22px;
+  left: 2.58px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.button3,
+.listItem7,
+.listItem7Child {
+  position: absolute;
+}
+.listItem7 {
+  top: 395px;
+  left: 95px;
+  width: 889px;
+  height: 56.72px;
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 732px;
+  width: 155px;
+  height: 38px;
+}
+.danceElectronicMix {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+}
+.listItem6Child {
+  position: absolute;
+  top: 43.22px;
+  left: 2.58px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.listItem6 {
+  position: absolute;
+  top: 342px;
+  left: 95px;
+  width: 887px;
+  height: 43.72px;
+}
+.funk {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 203px;
+}
+.listItem5Child {
+  top: 48.5px;
+  left: 2.5px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.button5,
+.listItem5,
+.listItem5Child {
+  position: absolute;
+}
+.listItem5 {
+  top: 282px;
+  left: 95px;
+  width: 887px;
+  height: 49px;
+}
+.button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1px;
+  left: 732px;
+  width: 155px;
+  height: 38px;
+}
+.listItem4Child {
+  top: 46.22px;
+  left: 2.58px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.listItem3Child,
+.listItem4,
+.listItem4Child {
+  position: absolute;
+}
+.listItem4 {
+  top: 222px;
+  left: 95px;
+  width: 887px;
+  height: 46.72px;
+}
+.listItem3Child {
+  top: 51.5px;
+  left: 2.5px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.button7,
+.listItem3 {
+  position: absolute;
+}
+.listItem3 {
+  top: 162px;
+  left: 95px;
+  width: 887px;
+  height: 52px;
+}
+.button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 730px;
+  width: 155px;
+  height: 38px;
+}
+.listItem2Child {
+  position: absolute;
+  top: 45.5px;
+  left: 2.5px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.listItem2 {
+  position: absolute;
+  top: 102px;
+  left: 95px;
+  width: 885.08px;
+  height: 46px;
+}
+.ambient1 {
+  font-weight: 500;
+}
+.ambient,
+.button8 {
+  position: absolute;
+  top: 0;
+}
+.ambient {
+  left: 0.08px;
+  display: inline-block;
+  width: 351px;
+  height: 36px;
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 727.08px;
+  width: 155px;
+  height: 38px;
+}
+.listItem1Child {
+  top: 50.78px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 883.08px;
+  height: 1px;
+}
+.list,
+.listItem1Child {
+  position: absolute;
+}
+.listItem1 {
+  top: 42px;
+  left: 97.92px;
+  width: 882.08px;
+  height: 51.28px;
+}
+.listItem1,
+.searchBar {
+  /* position: absolute; */
+}
+.list {
+  top: 210px;
+  left: 200px;
+  width: 1040px;
+  height: 600px;
+}
+.searchBar {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-11xl);
+  background-color: F5F5F5;
+  top: 85px;
+  left: 470px;
+  width: 500px;
+  height: 60px;
+  border-radius: 20px;
+  padding-left: 20px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+.bg,
+.mainBody {
+ 
+ 
+}
+.mainBody {
+ display: flex;
+ flex-direction: column;
+  /* height: 924px; */
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+  align-items: center;
+  justify-content: center;
+}
+.bg {
+  top: 0;
+  /* background-color: var(--color-black); */
+  height: 100px;
+}
+.contact,
+.navLogo {
+  text-decoration: none;
+}
+.navLogo {
+  /* position: absolute;
+  top: 21px;
+  left: 43px; */
+  width: 180px;
+  height: 55px;
+  background-image: url(/public/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.home,
+.contact {
+  padding: 20px;
+font-size: 2rem;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  
+}
+.login {
+  top: 0;
+  left: 300px;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  width: 136px;
+  height: 33px;
+  text-decoration: none;
+}
+.login,
+.contact,
+.header,
+.home,
+.navMenu {
+  /* position: absolute; */
+}
+.home,
+.navMenu {
+  /* height: 33px; */
+  
+}
+.home {
+ 
+  
+}
+
+.navMenu {
+ display: flex;
+ flex-direction: row-reverse;
+}
+.header {
+ display: flex;
+ background-color: #000;
+ justify-content: space-between;
+ align-items: center;
+ padding: 10px;
+  /* width: 1440px; */
+  height: 100px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+ .genre_table{
+  margin-top: 30px;
+ }
+@media screen and (max-width: 1200px) {
+  .bg,
+  .header,
+  .homePage,
+  .list,
+  .listChild,
+  .mainBody,
+  .mainBodyChild {
+    width: 100%;
+  }
+  .mainBody{
+    justify-content: center;
+    align-content: center;
+  }
+}
+@media screen and (max-width: 600px) {
+  
+  .mainBody{
+ font-size: 5.2vw;
+ padding: 20px;
+  }
+  .view-btn{
+    padding: 5px !important;
+    font-size: 0.9rem;
+  }
+  .searchBar {
+    width: 60vw;
+    margin-top: 17px;
+    font-size: 1.2rem;
+    height: 45px;
+  }
+  
+  .contact{
+    font-size: 1rem !important;
+    padding: 10px;
+  }
+  .home{
+    font-size: 1rem !important;
+    padding: 10px;
+  }
+  .navLogo{
+    width: 100px;
+    height: 38px;
+  }
+  .genre_table{
+    margin-top: 56px !important;
+  }
+}

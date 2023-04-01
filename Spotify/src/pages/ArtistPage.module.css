@@ -1,0 +1,408 @@
+.card4Child,
+.mainBodyChild {
+  
+}
+.mainBodyChild {
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 1248px;
+}
+.card4Child {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 360px;
+  height: 360px;
+}
+.antent,
+.monthlyListeners {
+  /* position: absolute; */
+  font-weight: 500;
+}
+.monthlyListeners {
+  
+}
+.antent {
+ 
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 102px;
+  height: 31px;
+}
+.image4Icon {
+  /* position: absolute; */
+  top: 34px;
+  left: 100px;
+  border-radius: var(--br-81xl);
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+.card4,
+.image3Icon {
+  /* position: absolute; */
+  top: 659px;
+  left: 817px;
+  width: 360px;
+  height: 360px;
+}
+.image3Icon {
+  top: 34px;
+  left: 94px;
+  border-radius: var(--br-81xl);
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+}
+.mathbonus,
+.monthlyListeners1 {
+  /* position: absolute; */
+  top: 214px;
+  left: 94px;
+  font-weight: 500;
+  display: inline-block;
+  width: 171px;
+  height: 31px;
+}
+.monthlyListeners1 {
+  top: 266px;
+  left: 50px;
+  font-size: var(--font-size-xl);
+  width: 260px;
+  height: 22px;
+}
+.card3 {
+  top: 659px;
+  left: 263px;
+  width: 360px;
+  height: 360px;
+  font-size: var(--font-size-11xl);
+}
+.card2,
+.card3,
+.tilekid {
+  /* position: absolute; */
+}
+.tilekid {
+  top: 214px;
+  left: 126px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 108px;
+  height: 31px;
+}
+.card2 {
+  top: 227px;
+  left: 810px;
+  width: 360px;
+  height: 360px;
+}
+.monthlyListeners3,
+.neheart {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.neheart {
+  top: 214px;
+  left: 105px;
+  width: 138px;
+  height: 31px;
+}
+.monthlyListeners3 {
+  top: 266px;
+  left: 38px;
+  font-size: var(--font-size-xl);
+  width: 272px;
+  height: 22px;
+}
+.card1,
+.heading {
+  
+  
+  font-size: var(--font-size-11xl);
+}
+.heading {
+ 
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  display: inline-block;
+  font-size: 3vw;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+.vectorIcon {
+  
+ margin-right: 20px;
+ 
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  font-size: 3vw;
+color: #fff;
+}
+.back {
+ 
+  font-weight: 500;
+  font-size: 3vw;
+  /* padding-left: 40px; */
+}
+.nonAactive{
+  text-decoration: none;
+  border: none;
+  padding: 40px;
+  font-size: 2rem;
+    font-weight: 600;
+    color: inherit;
+   
+   
+}
+.backButton {
+  display: flex;
+  align-items: center;
+  bottom: 90.46%;
+  left: 3.61%;
+  cursor: pointer;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  width: 24%;
+  padding-left: 40px;
+  top: 57px;
+  position: absolute;
+  
+  height: 4vh;
+}
+.NaviateHead{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  width: 70%;
+  margin-top: 50px;
+  justify-content: flex-end;
+  width: 100vw;
+  /* font-size: 1vw; */
+}
+.mainBody {
+  display: flex;
+ flex-direction: column;
+  /* height: 924px; */
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+  align-items: center;
+  justify-content: center;
+}
+.bg,
+.mainBody,
+.navLogo {
+   
+}
+.bg {
+  /* top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 100px; */
+}
+.navLogo {
+  /* position: absolute;
+  top: 21px;
+  left: 43px; */
+  width: 180px;
+  height: 55px;
+  background-image: url(/public/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.contact {
+  padding: 40px;
+font-size: 2rem;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+.heading span{
+  margin-right: 5px;
+}
+.home {
+  text-decoration: none;
+  padding-right: 10px;
+  margin: 20px;
+  font-weight: 600;
+  margin: auto;
+  color: inherit;
+  display: inline-block;
+}
+.navMenu {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.header {
+  display: flex;
+  background-color: #000;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+   /* width: 1440px; */
+   height: 100px;
+   text-align: left;
+   font-size: var(--font-size-11xl);
+   color: var(--color-white);
+   font-family: var(--font-inter);
+ }
+.artistPage {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  /* height: 1348px; */
+  margin-bottom: 50px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .artistPage {
+    width: 100%;
+  }
+  .backButton{
+    width: 100vw;
+    top: 48px;
+
+  }
+}
+
+
+.css-11l5t4l-MuiGrid-root {
+  box-sizing: border-box;
+  margin: auto;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 100%;
+  -ms-flex-preferred-size: 100%;
+  /* flex-basis: 100%; */
+  /* -webkit-box-flex: 0; */
+  /* -webkit-flex-grow: 0; */
+  -ms-flex-positive: 0;
+  /* flex-grow: 0; */
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+@media screen and (max-width: 1200px) {
+  .bg,
+  .header,
+  .homePage,
+  .list,
+  .listChild,
+  .mainBody,
+  .mainBodyChild {
+    width: 100%;
+  }
+  .mainBody{
+    justify-content: center;
+    align-content: center;
+  }
+  .NaviateHead{
+    width: 100%;
+  }
+  .heading{
+    font-size: 1.6rem;
+  }
+  .back{
+    font-size: 1.6rem;
+        
+    
+  }
+  .vectorIcon{
+    width: 1.4rem;
+
+  }
+  .vectorIcon{
+    width: 4.3vw;
+    font-size: 1.4rem;
+    margin-right: 0;
+    /* margin-bottom: 8px; */
+    display: flex;
+    align-items: center;
+  }
+  .Card{
+
+  }
+}
+@media screen and (max-width: 680px) {
+  
+  .mainBody{
+ font-size: 5.2vw;
+  }
+  .view-btn{
+    padding: 5px !important;
+    font-size: 0.9rem;
+  }
+  .searchBar {
+    width: 60vw;
+    margin-top: 17px;
+    font-size: 1.2rem;
+    height: 45px;
+  }
+  .contact{
+    font-size: 1rem !important;
+    padding: 10px;
+  }
+  .navLogo{
+    width: 100px;
+    height: 38px;
+  }
+  .genre_table{
+    margin-top: 56px !important;
+  }
+  .heading{
+    font-size: 4.4vw;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100vw !important;
+    margin-top: 64px;
+    margin-left: 0;
+    
+  }
+ 
+  .back{
+    font-size: 4.4vw;
+    margin-left: 18px;
+  }
+  .vectorIcon{
+    width: 4.3vw;
+    font-size: 4.3vw;
+    margin-right: 0;
+    /* margin-bottom: 8px; */
+    display: flex;
+    align-items: center;
+  }
+  .NaviateHead{
+    display: flex;
+    flex-direction: column-reverse !important;
+    justify-content: space-around;
+    width: 70%;
+    margin-top: 50px;
+    /* font-size: 1vw; */
+  }
+  .nonAactive{
+    padding: 10px;
+    font-weight: 600;
+    color: inherit;
+    display: inline-block;
+    display: inline-block;
+    font-size: 1rem !important;
+  }
+}

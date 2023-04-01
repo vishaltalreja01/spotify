@@ -1,0 +1,77 @@
+ 
+ 
+.tracksCard{
+    width: 18rem; height: 410px;
+}
+.cardContainer{
+    padding: 0 10px;
+}
+.card-head-text{
+    font-size: 1.3rem;
+
+}
+card-second-text{
+    font-size: 1rem;
+}
+.card-third-text{
+    font-size: 0.8rem;
+}
+.transition {
+    -webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+    transition-delay: 0.5s;
+  }
+  .fade-enter {
+    opacity: 0;
+    transform: translateY(10%);
+  }
+  
+   
+  
+  .fade-exit {
+    opacity: 1;
+  }
+  
+   
+  .fade-enter-active {
+    opacity: 1;
+    transform: translateY(0%);
+    transition: opacity 500ms ease-in-out, transform 500ms ease-in-out;
+  }
+  
+  .fade-exit-active {
+    opacity: 0;
+    transform: translateY(0%);
+    /* transform: translateX(-100%); */
+    transition: opacity 500ms ease-in-out, transform 500ms ease-in-out;
+  }
+    
+  
+@media screen and (max-width: 1200px) {
+.tracksCard{
+width: 15rem;
+height: 24rem;
+}
+}
+@media screen and (max-width: 680px) {
+.tracksCard{
+width: 12rem;
+height: 19rem;
+}
+.card-head-text{
+    font-size: 1rem;
+
+}
+.card-second-text{
+    font-size: 0.8rem;
+}
+.card-third-text{
+    font-size: 0.7rem;
+}
+.responsive_image{
+  min-height: 231px;
+}
+}
